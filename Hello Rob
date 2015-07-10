@@ -1,2 +1,3 @@
 #!/bin/ksh
 echo "Hello Rob"
+echo "How are you"
